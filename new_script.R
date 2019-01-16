@@ -8,4 +8,10 @@
 # I want to try to add more to the file and add and coomit
 
 
-afsfsfsef
+# STEPS to follow:
+
+# making changes to the file
+# save the changes
+# tick the staged box
+# commit
+# push to the master
